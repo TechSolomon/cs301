@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Final Project
 
 You can use the [editor on GitHub](https://github.com/TechSolomon/cs301/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
