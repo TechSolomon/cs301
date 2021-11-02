@@ -11,6 +11,6 @@ We have this program's source code, but it uses a strange DRM solution. Can you 
 - Source: https://github.com/google/google-ctf/tree/master/2021/quals/rev-cpp
 
 ## Further Reading
-- [Trail of Bits – Auditing Binaries: CTF Field Guide](https://trailofbits.git4hub.io/ctf/vulnerabilities/binary.html)
+- [Trail of Bits – Auditing Binaries: CTF Field Guide](https://trailofbits.github.io/ctf/vulnerabilities/binary.html)
 - [GitHub Security Lab – Capture The Flag](https://securitylab.github.com/ctf/)
 - [CTFtime Writeups](https://ctftime.org/writeups)
