@@ -1,3 +1,6 @@
+; Solomon Himelbloom
+; CS 241 - Final Project
+
 section .text
 global foo
 
