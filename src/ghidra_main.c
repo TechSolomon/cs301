@@ -1,3 +1,5 @@
+// NOTE: bomb 2 --> Ghidra --> main function output.
+
 int __regparm3 main(int argc,char **argv)
 
 {
