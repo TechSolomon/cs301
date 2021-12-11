@@ -16,6 +16,16 @@
 - Tracking progress
     - C (or other high level language)
     - IDA Pro (disassembler)
+- Common instructions
+    - PUSH
+    - MOV
+    - SUB
+    - CMP
+    - JNZ
+    - JMP
+    - CALL
+    - TEST
+    - XOR
 
 ## Conclusion
 - Lessons learned
