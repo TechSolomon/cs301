@@ -6,9 +6,9 @@
 - Main file: (`annotation.asm` & `ghidra_main.c`)
 
 ## Ghidra Hints
-- TBA
+<img width="611" alt="Import Results Summary (Ghidra)" src="https://user-images.githubusercontent.com/7608183/145666761-808ea214-2716-4905-8d89-44a6b4eeb916.png">
 
-## Difusion Tasks
+## Diffusion Tasks
 1. Series of phases
 2. Data structures + control flow
 
@@ -19,5 +19,4 @@
 
 ## Conclusion
 - Lessons learned
-    - Organization
-    - Comment consistency
+    - Organization & comment consistency
