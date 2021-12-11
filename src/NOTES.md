@@ -5,8 +5,20 @@
 - Diagnostic inforamtion (attached below)
 - Main file: (`annotation.asm` & `ghidra_main.c`)
 
-## Ghidra Hints
-<img width="611" alt="Import Results Summary (Ghidra)" src="https://user-images.githubusercontent.com/7608183/145666761-808ea214-2716-4905-8d89-44a6b4eeb916.png">
+## Diagnostic Information
+- Bytes / memory blocks / instructions / functions / symbols
+- ELF source files
+    - initfini.c
+    - init.c
+    - crtstuff.c
+    - crtstuff.c
+    - initfini.c
+    - bomb.c
+    - phases.c
+    - support.c
+- Little Endian format
+- Maximum and minimum address
+- Non-relocatable / non-readonly
 
 ## Diffusion Tasks
 1. Series of phases
